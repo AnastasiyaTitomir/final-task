@@ -1,4 +1,4 @@
-﻿string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
+﻿string[] array1 = new string[5] {"5678", "62", "final", "work", "do"};
 string[] array2 = new string[array1.Length];
 int count = 0;
 
